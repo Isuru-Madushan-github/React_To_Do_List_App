@@ -1,1 +1,3 @@
-# React_To_Do_List_App
+React To do list application
+
+with JSON server
